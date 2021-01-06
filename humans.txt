@@ -5,13 +5,14 @@
 
     Adhit Adhya
     adhit.adhya01@gmail.com
-    SDETIIII. Devops Engineer
+    Devops Engineer
 
 # THANKS
 
-    <name>
+    Adhit Adhya
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Angular
     jQuery, Modernizr, AJAX
+    Docker, Java Programming
