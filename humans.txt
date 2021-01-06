@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Adhit Adhya <twitter>
+    Adhit Adhya
+    adhit.adhya01@gmail.com
+    SDETIIII. Devops Engineer
 
 # THANKS
 
