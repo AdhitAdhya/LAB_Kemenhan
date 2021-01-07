@@ -3,6 +3,7 @@ This is Git Project Which we are using as Sample Project
 
 ## Introduction
 A Lot of Lecture are ready submited
+And a lot of Lectures still comming on.
 
 ## GIT &GITHub Training
 This is the famous and one of the best Training course of Devops
