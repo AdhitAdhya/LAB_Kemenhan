@@ -1,22 +1,18 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-<<<<<<< HEAD
 Hi, I am modifing the file before rebase.
 
 doing some changes in local.
-=======
+Adding Important Notes on Git Stash.
+
+
 Hi, Going to insert conflicts in my feature branch.
->>>>>>> mybranch
 
 # TEAM
 
     Adhit Adhya
     adhit.adhya01@gmail.com
-<<<<<<< HEAD
-
-    SDETIIII. Devops Engineer
-=======
     Devops Engineer level III
     IT organ
 
@@ -34,7 +30,6 @@ Hi, Going to insert conflicts in my feature branch.
 # THANKS
 
     Thanks to All my student.
->>>>>>> mybranch
 
 # TECHNOLOGY COLOPHON
 
